@@ -1,28 +1,96 @@
-<h1 align="center">Hi 👋, I'm Samrudhi Mahendra Borawake</h1>
-<h3 align="center">Welcome to my GitHub profile! This repository contains a collection of my software development, machine learning, and web development projects. I am a motivated software development student specializing in Machine Learning, and Web Development. I am currently learning Data Science, Node.js, and React.</h3>
+Hi there! 👋 I'm Samrudhi Borawake
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=samrudhi24code&label=Profile%20views&color=0e75b6&style=flat" alt="samrudhi24code" /> </p>
+🚀 About Me
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samrudhi24code" alt="samrudhi24code" /></a> </p>
+I'm a passionate student and aspiring Data Scientist, Machine Learning Enthusiast, and Full-Stack Developer based in India. With a strong foundation in programming, problem-solving, and web technologies, I am eager to apply my skills to real-world projects and gain hands-on experience.
 
-- 🔭 I’m currently working on **Airnb(MERN STACK)**
+💡 What I Do
 
-- 🌱 I’m currently learning **React,NodeJS**
+🔍 Learning Data Science & Machine Learning – Exploring data analysis, predictive modeling, and AI applications.
 
-- 💬 Ask me about **Python, ML, NLP, MySQL, HTML, CSS, BootStrap**
+🖥️ Full-Stack Development Enthusiast – Building frontend (HTML, CSS, JavaScript, React) and backend (Node.js, Express, MongoDB, MySQL) applications.
 
-- 📫 How to reach me **borawakesamrudhi@gmail.com**
+📊 Data Visualization & Analytics – Matplotlib, Seaborn, and Pandas.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/samrudhiborawake" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/samrudhiborawake" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/samrudhi_242/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/samrudhi_242/" height="30" width="40" /></a>
-</p>
+📈 Statistical Analysis & Feature Engineering – Understanding probability, hypothesis testing, and feature selection.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://backbonejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/backbonejs/backbonejs-original-wordmark.svg" alt="backbonejs" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=samrudhi24code&show_icons=true&locale=en&layout=compact" alt="samrudhi24code" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samrudhi24code&" alt="samrudhi24code" /></p>
 
+
+
+
+🛠️ Tech Stack
+
+Programming Languages:
+
+Python, JavaScript, C++, SQL, Java
+
+Data Science & ML:
+
+ Pandas, Numpy,Natural Language Processing (NLP),Data Mining
+
+Web Development:
+
+Frontend: HTML, CSS, JavaScript, React
+
+Backend: Node.js, Express, MySQL, Django, Flask
+
+Database: MongoDB, PostgreSQL
+
+DevOps & Tools:
+
+Git, GitHub
+
+🌱 Currently Learning
+
+Advanced Machine Learning algorithms
+
+React,NodeJS
+
+
+
+📫 How to Reach Me
+
+📧 Email: borawakesamrudhi@gmail.com
+
+🔗 LinkedIn: https://www.linkedin.com/in/samrudhiborawake
+
+💻 GitHub: https://github.com/Samrudhi24Code
+
+📌 Projects & Learning
+
+Beginner ML Projects – Small projects exploring machine learning applications.
+
+Full-Stack Web Apps – Developing simple web applications to enhance my skills.
+
+
+
+
+
+I'm excited to learn and grow in the tech world! 🚀
+
+
+
+## Installation
+
+Install my-project with npm
+
+```bash
+npm install my-project
+cd my-project
+```
+
+## Usage/Examples
+
+```javascript
+import Component from 'my-project'
+
+function App() {
+  return <Component />
+}
+```
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
